@@ -9,3 +9,5 @@ Un robot controlado con esp32, que recibe señales bluetooth de un control de Pl
 - El codigo para el funcionamiento del esp32 cam se puede conseguir facilmente en los ejemplos de esp32 en el arduino ide. Tambien se podria crear un codigo propio del funcionamiento para customizar el proyecto.
 - Para poder tener mayor flexibilidad en el movimiento de la camara en la posicion mas conveninete simplemente conectamos de manera directa la placa principal con el esp32 cam con cables para alimentarlo.
 - Para el ensamblaje y la presentacion final en este caso solo utilizamos carton prenzado con tornillos y poco mas, por esa razon no hay un diseño 3d del proyecto.
+---
+Este proyecto fue realizado como trabajo de aprendisaje escolar en la Tecnina N5 de Temperley, tambien conocida como "2 de abril" en Buenos Aires Argentina.
